@@ -4,7 +4,7 @@ Welcome to my **LeetCode Daily Challenge** repository! This repo contains my per
 
 ---
 
-## Daily Problem Log
+## Daily Problem Log 
 
 | Date        | Problem Title                                      | POD Number | Status       |
 |-------------|----------------------------------------------------|------------|--------------|
